@@ -33,9 +33,9 @@ Contribuições são bem-vindas. Se você quiser melhorar este projeto, sinta-se
 
 ## Licença
 
-Este projeto é distribuído sob a licença de César Rodrigues.
+Este projeto é distribuído sob a licença de ALAN PAZ .
 
 ## Contato
 
 César Rodrigues
-E-mail: csar.iphone@icloud.com
+E-mail: atlasvision@outlook.com.br
